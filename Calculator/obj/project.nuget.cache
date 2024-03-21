@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "prLNml5SNmSJOvV3upWax/i0ly0R6g6PS4hEXUe4RVT+jwu5LfR39D+4mhOFwBf1uVjtNWfYjCXGHu6+sXwvCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enis_\\OneDrive\\Masaüstü\\Hesap Makinesi Projem\\Calculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enis_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\enis_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\enis_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\enis_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
